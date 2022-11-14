@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "name": "pene",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoRnSamp/discord-bot.git"
+  },
+  "author": "korn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoRnSamp/discord-bot/issues"
+  },
+  "homepage": "https://github.com/KoRnSamp/discord-bot#readme"
+}
